@@ -1,0 +1,5 @@
+{
+  "name": "React Master Chess",
+  "description": "Um jogo de xadrez completo com lógica de movimento, detecção de xeque e xeque-mate, e design responsivo moderno.",
+  "requestFramePermissions": []
+}
